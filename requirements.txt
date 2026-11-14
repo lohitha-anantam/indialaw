@@ -1,0 +1,16 @@
+streamlit
+kagglehub
+pymupdf
+beautifulsoup4
+python-docx
+sentence-transformers
+numpy
+requests
+python-dotenv
+transformers
+datasets
+accelerate
+peft
+trl
+bitsandbytes
+torch
